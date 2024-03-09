@@ -1,5 +1,5 @@
-# Graph_Analysis
-Some achievements of the Graph analysis module and application
+# Graph_Analysis 
+Some achievements of the Graph analytics and application for social networks module
 
 ## 1er notebook : Réseaux de neurones graphiques (Node Embedding)
 
